@@ -40,7 +40,9 @@ button{
 }
 
 #buttonCreate{
+	border:transparent;
 	margin-top:20px;
+	margin-bottom:-10px;
 	text-align:center;
 }
 
@@ -49,6 +51,7 @@ form{
 	font-size:24px;
 	text-align:center;
 }
+
 #userChoice{
 	margin-right:12px;
 	margin-bottom:7px;
